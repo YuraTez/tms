@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27b227e2-f4d7-45ba-9659-d34b1e335357" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="83e9e492-4472-4ae5-9e0f-18505e986965" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lessen-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lessen-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lessen-3/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lessen-3/css/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lessen-3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lessen-3/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lessen-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lessen-3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="28LKXwZlsjcklt1T9UxFHMW0jpf" />
+  <component name="ProjectId" id="28QkXylxBQ6iv7nnxHr8JrbNBa0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lessen-4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,16 +43,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="27b227e2-f4d7-45ba-9659-d34b1e335357" name="Default Changelist" comment="" />
-      <created>1650990469220</created>
+      <changelist id="83e9e492-4472-4ae5-9e0f-18505e986965" name="Default Changelist" comment="" />
+      <created>1651156240778</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1650990469220</updated>
-      <workItem from="1650990470392" duration="9580000" />
-      <workItem from="1651110626294" duration="786000" />
-      <workItem from="1651155805322" duration="432000" />
-      <workItem from="1651159765285" duration="270000" />
-      <workItem from="1651162448817" duration="3492000" />
+      <updated>1651156240778</updated>
+      <workItem from="1651156241869" duration="1528000" />
+      <workItem from="1651159013124" duration="749000" />
+      <workItem from="1651165983397" duration="6453000" />
     </task>
     <servers />
   </component>
@@ -60,9 +58,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2106" y="275" key="FileChooserDialogImpl" timestamp="1651165978680">
+    <state x="2106" y="275" key="FileChooserDialogImpl" timestamp="1651159758054">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="2106" y="275" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1651165978680" />
+    <state x="2106" y="275" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1651159758054" />
   </component>
 </project>
