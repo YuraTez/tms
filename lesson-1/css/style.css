@@ -1,0 +1,32 @@
+
+.header .header__item--red{
+  color: red;
+}
+
+#header-item-id{
+  color: green;
+}
+
+.header__item{
+   color: blue;
+}
+
+.nav-list,
+.header__item{
+  display: flex;
+}
+
+.social{
+  display: flex;
+  justify-content: space-around;
+}
+
+.social__item{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.social__item--row{
+  flex-direction: row;
+}
