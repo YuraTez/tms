@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e3c2ab9-0a29-4ce6-963c-69dc254dfd4b" name="Default Changelist" comment="" />
+    <list default="true" id="3e3c2ab9-0a29-4ce6-963c-69dc254dfd4b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/yura/work/momo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,7 +45,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651595138980</updated>
-      <workItem from="1651595140506" duration="8883000" />
+      <workItem from="1651595140506" duration="9481000" />
+      <workItem from="1651656747919" duration="138000" />
     </task>
     <servers />
   </component>
@@ -55,5 +58,9 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1951" y="97" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1651603571361" />
+    <state x="2106" y="275" key="FileChooserDialogImpl" timestamp="1651656884371">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="275" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1651656884371" />
   </component>
 </project>

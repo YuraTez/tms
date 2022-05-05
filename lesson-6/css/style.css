@@ -1,0 +1,154 @@
+@import "cdn.css";
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 100px 0;
+}
+
+.title{
+  position: relative;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.title:after{
+  position: absolute;
+  content: "";
+  width: 170px;
+  height: 2px;
+  background: #EC7979;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.svg svg{
+  stroke: red;
+  stroke-width: 5px;
+  width: 200px;
+  height: 200px;
+  transition: 0.5s;
+}
+.svg svg:hover{
+  transform: rotate(-180deg);
+}
+
+
+.block{
+  width: 200px;
+  height: 200px;
+  border: 2px solid #4586;
+  margin: 0 auto;
+  padding: 50px 0;
+  box-shadow: 0px 0 15px 5px rgba(5%, 5%, 5%, 0.5);
+}
+
+
+.block__item{
+  background: red;
+  height: 100%;
+}
+
+
+.fa-telegram{
+  font-size: 50px;
+  color: #ec7979;
+ /* cursor: pointer;*/
+  transition: 0.3s;
+}
+
+.fa-telegram:hover{
+  color: black;
+}
+
+.fa-instagram{
+  font-size: 50px;
+  color: #ec7979;
+ /* cursor: pointer;*/
+  transition: 0.3s;
+}
+
+
+.fa-instagram:hover{
+  color: black;
+}
+
+.transform{
+  position: relative;
+  width: 400px;
+  height: 400px;
+  border: 2px solid silver ;
+  margin: 50px auto;
+  transition: 0.5s;
+  background: red;
+}
+
+/*.transform:hover{
+  transform: translate(-20px, -20px);
+}*/
+
+.transform__item{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: white;
+/*  top: calc(50% - 100px);
+  left: calc(50% - 100px);*/
+  left: 50%;
+  top: 50%;
+ transform: translate(-50%, -50%);
+  transition: 0.5s;
+}
+
+
+.transform:hover{
+  transform: scale(0.2);
+}
+
+.transform-2{
+  width: 200px;
+  height: 200px;
+  border: 2px solid silver;
+  margin: 0 auto;
+  transition: 0.5s;
+}
+
+
+.transform-2:hover{
+  transform: skew(20deg, 30deg);
+}
+
+.block-rot{
+  display: flex;
+}
+
+.rot__item{
+  width: 200px;
+  height: 200px;
+  border: 2px solid red;
+  transition: 0.5s;
+}
+
+.rot__item-1{
+  position: relative;
+  z-index: 1;
+  background: red;
+}
+.rot__item-2{
+  position: relative;
+  background: black;
+  z-index: 2;
+}
+.rot__item-1:hover{
+  transform: rotate(90deg);
+}
