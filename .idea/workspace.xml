@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="319396fd-0f82-4a42-8c1a-6952f316ad8f" name="Default Changelist" comment="" />
+    <list default="true" id="a6376ce7-821f-4854-88f3-42b79db94cfd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lesson-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-6/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,10 +13,9 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="28kh2QtpxyZTnSQG0cs7VZdkH4V" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="28yRVSAxeQmqDXEpEHG2E3fNN42" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Homestead/code/public/postroyka-by" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,12 +39,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="319396fd-0f82-4a42-8c1a-6952f316ad8f" name="Default Changelist" comment="" />
-      <created>1651766283393</created>
+      <changelist id="a6376ce7-821f-4854-88f3-42b79db94cfd" name="Default Changelist" comment="" />
+      <created>1652186863019</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1651766283393</updated>
-      <workItem from="1651766284502" duration="9631000" />
+      <updated>1652186863019</updated>
+      <workItem from="1652186864386" duration="13016000" />
     </task>
     <servers />
   </component>
@@ -51,9 +52,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2106" y="275" key="FileChooserDialogImpl" timestamp="1651784142542">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state x="412" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652187189900">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="2106" y="275" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1651784142542" />
+    <state x="412" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1652187189900" />
   </component>
 </project>

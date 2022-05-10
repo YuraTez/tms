@@ -1,0 +1,80 @@
+*** form - атрибуты ***
+______________________________
+action - действие , которое будет проиходить с формой после отправки
+name
+method
+
+*** form - label атрибуты***
+______________________________
+for
+
+*** form-input атрибуты ***
+______________________________
+
+checked
+disabled
+name
+placeholder
+required
+value
+maxlength
+minlength
+Form
+type
+
+*** form-input значения ***
+______________________________
+
+text
+checkbox - name
+radio
+file
+password
+email
+tel
+number
+date
+time
+color
+range (min , max , value)
+
+*** textarea атрибуты  ***
+_______________________________
+cols
+rows
+disabled
+form
+maxlength
+name
+placeholder
+required
+
+*** button - атрибуты ***
+________________________________
+form
+disabled
+mane
+value
+
+*** значения button type ***
+_________________________________
+button
+reset
+submit
+
+
+!!! *** select  - Атрибуты используются с options***
+_________________________________
+disabled
+form
+multuple \ size
+name
+readonly
+label
+
+
+!!! option - атрибуты используются с select
+__________________________________
+disabled
+value
+selected
