@@ -52,14 +52,17 @@
 
 
 textarea{
-  width: 400px;
+ /* width: 400px;
   height: 200px;
-
-/* resize: vertical;
-   resize: horizontal
-  */
   resize: none;
+  outline: none;*/
+/*
+resize: vertical;
+ resize: horizontal
+  */
+/* */
 }
+
 
 button{
   display: block;
@@ -68,7 +71,7 @@ button{
 select{
   display: block;
   width: 300px;
-  margin-bottom: 10px;
+  margin: 20px 0;
 }
 
 .block{
@@ -90,3 +93,88 @@ select{
 .img-svg:hover svg{
   fill: black;
 }
+button{
+  margin: 30px;
+}
+
+
+.new-form{
+  padding: 80px 0 50px;
+}
+
+
+.form-content{
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-content__item{
+  display: flex;
+  flex-direction: column;
+  width: 49%;
+}
+
+.new-form-group{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.new-form-group:not(:last-child){
+  margin-bottom: 50px;
+}
+
+.new-form input,
+.new-form textarea{
+  resize: none;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #BDBDBD;
+  padding-left: 10px;
+}
+
+.new-form textarea{
+ height: 100%;
+}
+
+.new-form label{
+  font-size: 14px;
+  line-height: 19px;
+  color: #BDBDBD;
+}
+
+.new-form-btn{
+  display: block;
+  width: 370px;
+  padding: 20px 0;
+  background: #EC7979;
+  cursor: pointer;
+  transition: 0.3s;
+  border: none;
+  outline: none;
+  margin: 50px auto 0;
+}
+
+.new-form-btn:hover{
+  background: green;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

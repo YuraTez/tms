@@ -35,7 +35,51 @@
 </section>
 <section class="section-input">
     <div class="wrapper">
+        <form class="new-form">
+            <div class="form-content">
+                <div class="form-content__item">
+                    <div class="new-form-group">
+                        <label for="Name">Name</label>
+                        <input type="text" id="Name">
+                    </div>
+                    <div class="new-form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email">
+                    </div>
+                    <div class="new-form-group">
+                        <label for="password">Password</label>
+                        <input type="password" id="password">
+                    </div>
+                </div>
+                <div class="form-content__item">
+                    <div class="new-form-group">
+                        <label for="textarea">Message</label>
+                        <textarea class="new-form-textarea" id="textarea"></textarea>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="new-form-btn">Send Message</button>
+        </form>
+
+
+
         <form action="#" name="form-1" id="form-1" method="get">
+
+            <select multiple size="6" >
+                <option value="red" selected disabled>color</option>
+                <option value="green" >green</option>
+                <option value="black">black</option>
+                <option value="white">white</option>
+                <option value="yellow" >yellow</option>
+                <option value="red" >red</option>
+                <option value="green" >green</option>
+                <option value="black">black</option>
+                <option value="white">white</option>
+                <option value="yellow" >yellow</option>
+            </select>
+            
+            
+            
             <div class="form-group">
                 <label for="userName">User name</label>
                 <input type="text" id="userName" placeholder="yuser" maxlength="8" value=""><br><br>
@@ -49,21 +93,38 @@
             <input type="radio" value="radio-2" id="radioSecond" name="radioBtn">
             <label for="radioSecond"> Radio second btn</label><br><br>
             <input type="file"><br><br>
-            <input type="password" placeholder="password"><br><br>
+            <input type="password" required placeholder="password"><br><br>
             <input type="email" placeholder="email" required><br><br>
-            <input type="tel" placeholder="+375(29)325-16-10" maxlength="15"><br><br>
+            <input type="tel" required placeholder="+375(29)325-16-10" maxlength="15"><br><br>
             <input type="number" placeholder="15"><br><br>
             <input type="date"><br><br>
-            <input type="time" value="12:30" required disabled><br><br>
+            <input type="time" value="12:30" required ><br><br>
             <input type="color"><br><br>
             <input type="range" value="10" min="0" max="100"><br><br>
             <input type="range" value="80" min="0" max="100"><br><br>
             <textarea placeholder="text"></textarea>
+            <button type="button">button</button>
+            <button type="reset">button reset</button>
+            <button type="submit">submit</button>
         </form>
 
         <input type="text" form="form-1"><br><br>
     </div>
 </section>
+
+
+<a href="" class="item-img-block" >
+    <div class="img">
+        <img src="" alt="img">
+    </div>
+    <div class="text">
+
+    </div>
+</a>
+
+
+
+
 
 </body>
 </html>
