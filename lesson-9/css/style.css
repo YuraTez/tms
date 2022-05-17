@@ -1,0 +1,112 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+html{
+  font-size: 16px;
+}
+
+.wrapper{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+h1{
+  font-size: 3rem;
+}
+p{
+  font-size: 1.2em;
+}
+
+.block{
+  font-size: 20px;
+}
+
+li{
+  font-size: 1rem;
+}
+
+
+.btn{
+  margin-bottom: 32px;
+  margin-left: 32px;
+  background: coral;
+  color: white;
+  border: 0;
+  box-shadow: 5px 5px 5px rgba(0,0,0, 0.55);
+  padding: 16px 32px;
+}
+
+.btn-bg{
+  margin-bottom: 2em;
+  margin-left: 2em;
+  background: coral;
+  color: white;
+  border: 0;
+  box-shadow: 0.1em 0.1em 0.5em rgba(0,0,0, 0.55);
+  padding: 1em 2em;
+}
+
+.btn-bg{
+  font-size: 24px;
+}
+
+@media (max-width: 400px) {
+  html{
+    font-size: 12px;
+  }
+}
+
+.circle{
+  position: relative;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background: coral;
+
+
+  animation-name: circle;
+  animation-duration: 3s;
+  animation-timing-function: ease;
+  animation-iteration-count: 2;
+  animation-direction: alternate;
+}
+
+@keyframes circle {
+  0%{
+    left: 0;
+  }
+  50%{
+    border-radius: 0;
+    background: blueviolet;
+  }
+  100%{
+    background: aquamarine;
+    border-radius: 50%;
+    left: 80%;
+  }
+}
+
+.circle:hover{
+  animation-play-state: paused;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
