@@ -1,0 +1,38 @@
+@import "../varebiles";
+@import "../mixin";
+.list{
+  display: flex;
+  flex-direction: row;
+  border: 2px solid $red;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+
+  &-item{
+    margin-left: 30px;
+    background: $red;
+
+    @media (max-width: 768px) {
+      background: $blue;
+    }
+
+    &__link{
+      text-decoration: none;
+      color: aqua;
+      transition: 0.3s;
+
+      &:hover{
+        color: grey;
+      }
+    }
+  }
+}
+
+.block{
+  display: flex;
+
+  &__item{
+    @include card;
+  }
+}

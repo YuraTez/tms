@@ -1,0 +1,23 @@
+@import "../varebiles";
+
+
+h1{
+  font-size: $h1;
+  @media (max-width: 1024px) {
+    font-size: $h1-1024;
+  }
+  @media (max-width: 768px) {
+    font-size: $h2-1024;
+  }
+  @media (max-width: 768px) {
+    font-size: $h3-1024;
+  }
+}
+
+h2 {
+  font-size: $h2;
+}
+
+h3{
+  font-size: $h3;
+}
